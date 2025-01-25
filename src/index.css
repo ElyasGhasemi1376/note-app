@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  hr {
+    @apply w-full border border-gray-100 my-1.5 md:my-2;
+  }
+}
