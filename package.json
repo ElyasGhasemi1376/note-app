@@ -9,9 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://ElyasGhasemi1376.github.io/note-app.git",
+  "homepage": "https://ElyasGhasemi1376.github.io/note-app/",
   "dependencies": {
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
